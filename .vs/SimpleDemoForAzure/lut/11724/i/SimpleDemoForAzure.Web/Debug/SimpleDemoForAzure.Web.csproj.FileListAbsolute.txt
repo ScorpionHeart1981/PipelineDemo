@@ -1,0 +1,7 @@
+E:\Devops\AzureDevOps\SimpleDemoForAzure\.vs\SimpleDemoForAzure\lut\0\b\SimpleDemoForAzure.Web\bin\ApplicationInsights.config
+E:\Devops\AzureDevOps\SimpleDemoForAzure\.vs\SimpleDemoForAzure\lut\0\b\SimpleDemoForAzure.Web\bin\SimpleDemoForAzure.Web.dll.config
+E:\Devops\AzureDevOps\SimpleDemoForAzure\.vs\SimpleDemoForAzure\lut\0\b\SimpleDemoForAzure.Web\bin\SimpleDemoForAzure.Web.dll
+E:\Devops\AzureDevOps\SimpleDemoForAzure\.vs\SimpleDemoForAzure\lut\0\i\SimpleDemoForAzure.Web\Debug\SimpleDemoForAzure.Web.csprojAssemblyReference.cache
+E:\Devops\AzureDevOps\SimpleDemoForAzure\.vs\SimpleDemoForAzure\lut\0\i\SimpleDemoForAzure.Web\Debug\SimpleDemoForAzure.Web.csproj.CoreCompileInputs.cache
+E:\Devops\AzureDevOps\SimpleDemoForAzure\.vs\SimpleDemoForAzure\lut\0\i\SimpleDemoForAzure.Web\Debug\SimpleDemoForAzure.Web.csproj.CopyComplete
+E:\Devops\AzureDevOps\SimpleDemoForAzure\.vs\SimpleDemoForAzure\lut\0\i\SimpleDemoForAzure.Web\Debug\SimpleDemoForAzure.Web.dll

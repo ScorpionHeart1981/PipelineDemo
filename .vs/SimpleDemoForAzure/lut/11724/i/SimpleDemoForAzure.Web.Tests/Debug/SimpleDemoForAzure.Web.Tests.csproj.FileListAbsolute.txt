@@ -1,0 +1,10 @@
+E:\Devops\AzureDevOps\SimpleDemoForAzure\.vs\SimpleDemoForAzure\lut\0\b\SimpleDemoForAzure.Web.Tests\bin\Debug\ApplicationInsights.config
+E:\Devops\AzureDevOps\SimpleDemoForAzure\.vs\SimpleDemoForAzure\lut\0\b\SimpleDemoForAzure.Web.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Devops\AzureDevOps\SimpleDemoForAzure\.vs\SimpleDemoForAzure\lut\0\b\SimpleDemoForAzure.Web.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Devops\AzureDevOps\SimpleDemoForAzure\.vs\SimpleDemoForAzure\lut\0\b\SimpleDemoForAzure.Web.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Devops\AzureDevOps\SimpleDemoForAzure\.vs\SimpleDemoForAzure\lut\0\b\SimpleDemoForAzure.Web.Tests\bin\Debug\SimpleDemoForAzure.Web.Tests.dll.config
+E:\Devops\AzureDevOps\SimpleDemoForAzure\.vs\SimpleDemoForAzure\lut\0\b\SimpleDemoForAzure.Web.Tests\bin\Debug\SimpleDemoForAzure.Web.Tests.dll
+E:\Devops\AzureDevOps\SimpleDemoForAzure\.vs\SimpleDemoForAzure\lut\0\i\SimpleDemoForAzure.Web.Tests\Debug\SimpleDemoForAzure.Web.Tests.csprojAssemblyReference.cache
+E:\Devops\AzureDevOps\SimpleDemoForAzure\.vs\SimpleDemoForAzure\lut\0\i\SimpleDemoForAzure.Web.Tests\Debug\SimpleDemoForAzure.Web.Tests.csproj.CoreCompileInputs.cache
+E:\Devops\AzureDevOps\SimpleDemoForAzure\.vs\SimpleDemoForAzure\lut\0\i\SimpleDemoForAzure.Web.Tests\Debug\SimpleDemoForAzure.Web.Tests.csproj.CopyComplete
+E:\Devops\AzureDevOps\SimpleDemoForAzure\.vs\SimpleDemoForAzure\lut\0\i\SimpleDemoForAzure.Web.Tests\Debug\SimpleDemoForAzure.Web.Tests.dll
